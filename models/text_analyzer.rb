@@ -38,6 +38,6 @@ class TextAnalyzer
       end
     end
  
-    biggest
+    biggest.to_s
   end
 end
